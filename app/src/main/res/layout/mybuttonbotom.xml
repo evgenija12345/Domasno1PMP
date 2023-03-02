@@ -9,10 +9,7 @@
     android:layout_marginTop="660dp"
     android:layout_marginStart="9dp"
     android:layout_marginEnd="9dp"
-
     android:layout_marginBottom="10dp">
-
-
     <Button
         android:id="@+id/button21"
         android:layout_width="367dp"
